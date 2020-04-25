@@ -20,9 +20,9 @@ Microbit: Using a buzzer
 
 https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/experiment-9-using-a-buzzer
 
-![Buzzer](images/buzzer.png)
+![Buzzer](images/buzzer.jpg)
 
-This project is related to mine because it also uses a buzzer to make simple sounds and melodies.
+This project is related to mine because it also uses a buzzer to make simple sounds and melodies. I can use the circuit diagrams to assist the design of my buzzer integration.
 
 ### Related project 3 ###
 Digital Watch
@@ -41,16 +41,17 @@ https://makecode.microbit.org/projects/watch/digital-watch
   })
 ```
 
-This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
+This project is related to mine in its code execution. The project shown is to become a watch but I can utilize the time counting to play melodies at hour intervals. Because it is created on the microbit, I can sample the code and change it to suit my needs and it should fit perfectly.
+
 
 ### Related project 4 ###
 A Simple Light Follower
 
 https://www.hackster.io/a-guadalupi/a-simple-light-follower-ad3388
 
-![LightFacer](images/lightfacer.png)
+![LightFacer](images/lightfacer.jpg)
 
-This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
+This project is related to mine in its because it also uses a photoresistor to detect light levels.
 
 ### Related project 5 ###
 Valentine's Sunflower
@@ -59,7 +60,7 @@ https://www.hackster.io/circuito-io-team/valentine-s-sunflower-3cdd90
 
 ![Sunflower](images/sunflower.jpg)
 
-This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
+This project is related to mine in its because it also uses a photoresistor to detect light levels.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
@@ -71,7 +72,7 @@ This project is related to mine in its aesthetic and idea. The square shape, bas
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*An interesting alarm that interrupts your intense distractions when it gets dark.*
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
@@ -105,3 +106,4 @@ Ensure you include comments about the choices you've made along the way.*
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+To continue the development of the idea I need to build a sturdier and more aesthetic model of the robot itself. Using higher quality materials and better space management to internally store the microbit and wires. Ideally it would be made out of metal but the likeliness of this is low, instead it will probably be made of some sort of wood or stronger card. Another step forward would be further refining the code to make it more optimised and easier to read. The circuit in itself is also rather messy with redundancies and too many wires. Soldering and shorter wires could greatly benefit this issue as well as improve the aesthetic. 
