@@ -69,6 +69,10 @@ This project is related to mine in its because it also uses a photoresistor to d
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
+### *Five Ways to Blink an LED with Arduino* ###
+https://medium.com/@urish/5-ways-to-blink-an-led-with-arduino-8f8a41b4fc7d
+Flashing LEDs is an excellent way of grabbing attention, especially when dark. Although this article is written for Arduino which is written in C/C++, it should be easily converted to javascript for the microbit. If after extensive experimentation it turns out that is not the case, I will change the project to use arduino.
+
 ## Conceptual progress ##
 
 ### Design intent ###
