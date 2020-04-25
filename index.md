@@ -9,9 +9,9 @@ Scared of the dark alarm clock
 ### Related project 1 ###
 Butter Passing Robot
 
-*Insert URL to project*
+http://www.youtube.com/watch?v=TZbxWvc9O6M
 
-![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)](http://www.youtube.com/watch?v=TZbxWvc9O6M)
+[![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)]
 
 This project is related to mine because *insert reasons here*.
 
