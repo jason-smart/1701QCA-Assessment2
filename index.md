@@ -20,7 +20,7 @@ Microbit: Using a buzzer
 
 https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/experiment-9-using-a-buzzer
 
-![missingimage.png]
+![Image](images/buzzer.png)
 
 This project is related to mine because it also uses a buzzer to make simple sounds and melodies.
 
@@ -44,20 +44,20 @@ https://makecode.microbit.org/projects/watch/digital-watch
 This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
 
 ### Related project 4 ###
-Butter Passing Robot
+A Simple Light Follower
 
-http://www.youtube.com/watch?v=TZbxWvc9O6M
+https://www.hackster.io/a-guadalupi/a-simple-light-follower-ad3388
 
-[![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)]
+![Image](images/lightfacer.png)
 
 This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
 
 ### Related project 5 ###
-Butter Passing Robot
+Valentine's Sunflower
 
-http://www.youtube.com/watch?v=TZbxWvc9O6M
+https://www.hackster.io/circuito-io-team/valentine-s-sunflower-3cdd90
 
-[![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)]
+![Image](images/sunflower.jpg)
 
 This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
 
