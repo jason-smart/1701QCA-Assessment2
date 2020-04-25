@@ -101,17 +101,17 @@ The final design concept is a simple alarm which is light sensitive and activate
 3. Check if asleep
     1. If the device is not asleep
       1. The device checks ambient light levels
-       1. If the room is too dark
-                1. The device starts screaming
-                2. The device starts moving
-                3. The device starts flashing
-                4. The user acknowledges the device
-                5. The device waits ten minutes
-                6. The device returns to Step 3
-       2. If the room is bright enough
-                1. The device waits one hour
-                2. The device plays a melody
-                3. The device returns to Step 3
+         1. If the room is too dark
+            1. The device starts screaming
+            2. The device starts moving
+            3. The device starts flashing
+            4. The user acknowledges the device
+            5. The device waits ten minutes
+            6. The device returns to Step 3
+         2. If the room is bright enough
+            1. The device waits one hour
+            2. The device plays a melody
+            3. The device returns to Step 3
     2. If the device is asleep
       1. Wait defined sleep hours
       2. Play wake up melody
