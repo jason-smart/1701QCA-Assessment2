@@ -20,7 +20,7 @@ Microbit: Using a buzzer
 
 https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/experiment-9-using-a-buzzer
 
-![Image](images/buzzer.png)
+![Buzzer](images/buzzer.png)
 
 This project is related to mine because it also uses a buzzer to make simple sounds and melodies.
 
@@ -48,7 +48,7 @@ A Simple Light Follower
 
 https://www.hackster.io/a-guadalupi/a-simple-light-follower-ad3388
 
-![Image](images/lightfacer.png)
+![LightFacer](images/lightfacer.png)
 
 This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
 
@@ -57,7 +57,7 @@ Valentine's Sunflower
 
 https://www.hackster.io/circuito-io-team/valentine-s-sunflower-3cdd90
 
-![Image](images/sunflower.jpg)
+![Sunflower](images/sunflower.jpg)
 
 This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
 
