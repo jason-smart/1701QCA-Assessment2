@@ -89,14 +89,34 @@ Flashing LEDs is an excellent way of grabbing attention, especially when dark. A
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
-The final design concept is a simple alarm which is light sensitive and activated when light drops below a specified level. The concept is based on the tendancy to be distracted by things to the point where the user doesn't realise what time of day it is. Generally people who are invested in computer based work or video games play past a point of sundown, when there are usually responsibilites that need to be completed at this time. Rather than a standard alarm clock, it is based as a novelty that would interest people that are usually interested in technology and video games, especially the science fiction world. It uses visual and audio features to alert the user of the ambient light levels. These features include blinking lights, body movement of the robot, and buzzing which could in future be translated to actual sounds through the use of a speaker rather than a buzzer. 
+The final design concept is a simple alarm which is light sensitive and activated when light drops below a specified level. The concept is based on the tendancy to be distracted by things to the point where the user doesn't realise what time of day it is. Generally people who are invested in computer based work or video games play past a point of sundown, when there are usually responsibilites that need to be completed at this time. Rather than a standard alarm clock, it is based as a novelty that would interest people that are usually interested in technology and video games, especially the science fiction world. It uses visual and audio features to alert the user of the ambient light levels. These features include blinking lights, body movement of the robot, and buzzing which could in future be translated to actual sounds through the use of a speaker rather than a buzzer. Because the robot is designed to be 'scared of the dark' it gives a personality to it and allows the user to connect. This provides a sense of companionship especially in current isolation. In future iterations speech could be added to further personify the device.
 
 ![Design_Concept](images/Sketch_Robot_01.jpg)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+1. The device is first turned on
+2. The device plays power up melody
+3. Check if asleep
+--1. If the device is not asleep
+----1. The device checks ambient light levels
+------1. If the room is too dark
+--------1. The device starts screaming
+--------2. The device starts moving
+--------3. The device starts flashing
+--------4. The user acknowledges the device
+--------5. The device waits ten minutes
+--------6. The device returns to Step 3
+------2. If the room is bright enough
+--------1. The device waits one hour
+--------2. The device plays a melody
+--------3. The device returns to Step 3
+--2. If the device is asleep
+----1. Wait 12 hours
+----2. Play wake up melody
+
+![Image](images/InteractionChart.png)
 
 ## Physical experimentation documentation ##
 
