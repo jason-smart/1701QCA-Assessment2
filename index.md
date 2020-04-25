@@ -110,4 +110,5 @@ Ensure you include comments about the choices you've made along the way.*
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
 To continue the development of the idea I need to build a sturdier and more aesthetic model of the robot itself. Using higher quality materials and better space management to internally store the microbit and wires. Ideally it would be made out of metal but the likeliness of this is low, instead it will probably be made of some sort of wood or stronger card. Another step forward would be further refining the code to make it more optimised and easier to read. The circuit in itself is also rather messy with redundancies and too many wires. Soldering and shorter wires could greatly benefit this issue as well as improve the aesthetic. 
