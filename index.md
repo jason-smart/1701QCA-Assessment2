@@ -11,9 +11,55 @@ Butter Passing Robot
 
 http://www.youtube.com/watch?v=TZbxWvc9O6M
 
+![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)
+
+This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
+
+### Related project 2 ###
+Microbit: Using a buzzer
+
+https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/experiment-9-using-a-buzzer
+
+![missingimage.png]
+
+This project is related to mine because it also uses a buzzer to make simple sounds and melodies.
+
+### Related project 3 ###
+Digital Watch
+
+https://makecode.microbit.org/projects/watch/digital-watch
+
+```javascript
+  let minutes = 0;
+  basic.forever(() => {
+      basic.pause(60000)
+      if (minutes < 59) {
+          minutes += 1;
+      } else {
+          minutes = 0;
+      }
+  })
+```
+
+This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
+
+### Related project 4 ###
+Butter Passing Robot
+
+http://www.youtube.com/watch?v=TZbxWvc9O6M
+
 [![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)]
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
+
+### Related project 5 ###
+Butter Passing Robot
+
+http://www.youtube.com/watch?v=TZbxWvc9O6M
+
+[![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)]
+
+This project is related to mine in its aesthetic and idea. The square shape, basic colour, and overcomplication of a simple task are very similar to my project.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
