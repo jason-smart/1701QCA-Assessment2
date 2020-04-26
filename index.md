@@ -79,12 +79,15 @@ Flashing LEDs is an excellent way of grabbing attention, especially when dark. A
 *An interesting alarm that interrupts your intense distractions when it gets dark.*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+#### Automatic Fan Speed ####
+The automatic fan speed device senses ambient room temperature to control the speed of the room's main fan. This keeps a controlled temperature environment within the room and increases circulation based on temperature.
+![Auto_Fan](images/autofan.jpg)
 
 ### Design concept 2 ###
-*Put details here.*
+#### Self Opening Blinds ####
+Self opening blinds use a photoresistor placed outside the window that measures the light level outside. Once the light level reaches a certain threshold a motor is run to open the blinds to allow sufficient light in. The device could also use an internal photoresistor in conjunction with the external one to make sure the room is well lit enough from the inside. 
+
+![Auto_Blinds](images/autoblinds.jpg)
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
