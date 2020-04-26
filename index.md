@@ -76,7 +76,7 @@ Flashing LEDs is an excellent way of grabbing attention, especially when dark. A
 ## Conceptual progress ##
 
 ### Design intent ###
-*An interesting alarm that interrupts your intense distractions when it gets dark.*
+*An interesting device that uses light detection for both functionality use and novelty.*
 
 ### Design concept 1 ###
 #### Automatic Fan Speed ####
