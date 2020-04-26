@@ -146,9 +146,12 @@ function LEDFlash(time: number, ledPin: DigitalPin) {
 
 }
 ```
+[Video of blinking LEDs](https://www.youtube.com/watch?=ayhHdiu8)
+![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)
 
-//show video of blinking
 #### Motor and Tone ####
+
+The below code takes input from the LDR and compares it to a defined value (that will later be adjustable). If the room is too dark the tone is played and a motor spins. This gives proof of concept for further integration of movement in parts such as the continuous tracks. It also adds the ability to acknowledge the tone and make the device wait a predefined amount of time before it continues detecting light levels.  
 
 ```javascript
 let light = 0;
@@ -176,8 +179,13 @@ function checkLight() {
 }
 ```
 
+![lightMotorScream](images/lightmotorscream.jpg)
 
-![Image](missingimage.png)
+
+This is an earlier version of this iteration where just the piezo buzzer is implemented. It used similar code, excluding the ability to wait.
+![LightBuzzer](images/lightbuzzer.jpg)
+
+Combining all iterations of this will bring the project closer to its full functionality, but to further refine it more commands will be separated into functions so that its more optimized and readable.
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
