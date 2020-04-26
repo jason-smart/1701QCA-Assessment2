@@ -148,6 +148,34 @@ function LEDFlash(time: number, ledPin: DigitalPin) {
 ```
 
 //show video of blinking
+#### Motor and Tone ####
+
+```javascript
+let light = 0;
+let lightValue = 500;
+pins.analogSetPitchPin(AnalogPin.P2)
+
+basic.forever(function () {
+    checkLight();
+    if (input.buttonIsPressed(Button.A)) {
+        pins.digitalWritePin(DigitalPin.P0, 0);
+        basic.pause(60000);
+    }
+})
+
+function checkLight() {
+    light = pins.analogReadPin(AnalogPin.P1)
+
+    if (light < lightValue) {
+        music.playTone(1200, 1000);
+        pins.digitalWritePin(DigitalPin.P0, 1)
+    } else {
+        pins.digitalWritePin(DigitalPin.P0, 0)
+        return;
+    }
+}
+```
+
 
 ![Image](missingimage.png)
 
