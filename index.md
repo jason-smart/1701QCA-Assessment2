@@ -77,6 +77,9 @@ Flashing LEDs is an excellent way of grabbing attention, especially when dark. A
 ### Design intent ###
 *An interesting device that uses light detection for both functionality use and novelty.*
 
+![concept](images/concept.png)
+A quick 3D model of SID for conceptual design.
+
 ### Design concept 1 ###
 #### Automatic Fan Speed ####
 The automatic fan speed device senses ambient room temperature to control the speed of the room's main fan. This keeps a controlled temperature environment within the room and increases circulation based on temperature.
