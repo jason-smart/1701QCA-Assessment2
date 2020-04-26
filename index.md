@@ -63,9 +63,11 @@ This project is related to mine in its because it also uses a photoresistor to d
 
 ## Other research ##
 
-### *Brief resource name/description* ###
+### Wheels vs Continuous Tracks: Advantages and Disadvantages ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://www.intorobotics.com/wheels-vs-continuous-tracks-advantages-disadvantages/
+
+An article that ways the pros and cons of wheels vs continuous tracks.
 
 ### *Five Ways to Blink an LED with Arduino* ###
 https://medium.com/@urish/5-ways-to-blink-an-led-with-arduino-8f8a41b4fc7d
@@ -188,6 +190,4 @@ Combining all iterations of this will bring the project closer to its full funct
 
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
-
 To continue the development of the idea I need to build a sturdier and more aesthetic model of the robot itself. Using higher quality materials and better space management to internally store the microbit and wires. Ideally it would be made out of metal but the likeliness of this is low, instead it will probably be made of some sort of wood or stronger card. Another step forward would be further refining the code to make it more optimised and easier to read. The circuit in itself is also rather messy with redundancies and too many wires. Soldering and shorter wires could greatly benefit this issue as well as improve the aesthetic.
