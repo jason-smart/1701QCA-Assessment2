@@ -186,7 +186,7 @@ Combining all iterations of this will bring the project closer to its full funct
 
 ## Design process discussion ##
 
-The intent of the design was to interrupt common distractions that sidetrack people for hours, causing them to forget about responsibilites that are usually due around the time the sun sets. To do that, I researched the [effectiveness of light and sound as distractions](https://www.osti.gov/servlets/purl/7064093). This led to the conclusion that the sound has to be both loud enough, and at a pitch that it effectively catches the user's attention and distracts them from their task. Implementing all of the features outlined such as: light, sound, and movement. It is reasonable that a device could easily be fabricated to fit these specifications. With this concept mind i can move forward in development of a prototype.
+The intent of the design was to interrupt common distractions that sidetrack people for hours, causing them to forget about responsibilites that are usually due around the time the sun sets. To do that, I researched the [effectiveness of light and sound as distractions](https://www.osti.gov/servlets/purl/7064093). This led to the conclusion that the sound has to be both loud enough, and at a pitch that it effectively catches the user's attention and distracts them from their task. It would also be an advantage to include methods of drawing the persons attention via movement of the device. Implementing all of the features outlined such as: light, sound, and movement. It is reasonable that a device could easily be fabricated to fit these specifications. With this concept mind i can move forward in development of a prototype.
 
 
 ## Next steps ##
