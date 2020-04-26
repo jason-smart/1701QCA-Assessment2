@@ -130,11 +130,6 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
-
-## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
-
 #### LED Flashing ####
 
 ```javascript
@@ -151,6 +146,15 @@ function LEDFlash(time: number, ledPin: DigitalPin) {
 
 }
 ```
+
+//show video of blinking
+
+![Image](missingimage.png)
+
+## Design process discussion ##
+*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
+
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
