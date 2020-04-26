@@ -71,6 +71,7 @@ This project is related to mine in its because it also uses a photoresistor to d
 
 ### *Five Ways to Blink an LED with Arduino* ###
 https://medium.com/@urish/5-ways-to-blink-an-led-with-arduino-8f8a41b4fc7d
+
 Flashing LEDs is an excellent way of grabbing attention, especially when dark. Although this article is written for Arduino which is written in C/C++, it should be easily converted to javascript for the microbit. If after extensive experimentation it turns out that is not the case, I will change the project to use arduino.
 
 ## Conceptual progress ##
@@ -184,6 +185,7 @@ function checkLight() {
 
 
 This is an earlier version of this iteration where just the piezo buzzer is implemented. It used similar code, excluding the ability to wait.
+
 ![LightBuzzer](images/lightscream.jpg)
 
 Combining all iterations of this will bring the project closer to its full functionality, but to further refine it more commands will be separated into functions so that its more optimized and readable.
