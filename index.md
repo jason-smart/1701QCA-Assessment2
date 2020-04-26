@@ -135,6 +135,23 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+#### LED Flashing ####
+
+```javascript
+basic.forever(function () {
+    LEDFlash(500, DigitalPin.P8);
+})
+
+
+function LEDFlash(time: number, ledPin: DigitalPin) {
+    pins.digitalWritePin(ledPin, 1);
+    basic.pause(time);
+    pins.digitalWritePin(ledPin, 0);
+    basic.pause(time);
+
+}
+```
+
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 
