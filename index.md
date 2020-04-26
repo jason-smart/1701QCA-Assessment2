@@ -184,7 +184,7 @@ function checkLight() {
 
 
 This is an earlier version of this iteration where just the piezo buzzer is implemented. It used similar code, excluding the ability to wait.
-![LightBuzzer](images/lightbuzzer.jpg)
+![LightBuzzer](images/lightscream.jpg)
 
 Combining all iterations of this will bring the project closer to its full functionality, but to further refine it more commands will be separated into functions so that its more optimized and readable.
 
