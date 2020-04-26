@@ -147,9 +147,9 @@ function LEDFlash(time: number, ledPin: DigitalPin) {
 
 }
 ```
-[Video of blinking LEDs](https://www.youtube.com/watch?=ayhHdiu8)
+[Video of blinking LEDs](https://youtu.be/ExlDA7QsfpE)
 
-![ButterPassingRobot](http://img.youtube.com/vi/TZbxWvc9O6M/0.jpg)
+![ButterPassingRobot](http://img.youtube.com/vi/ExlDA7QsfpE/0.jpg)
 
 #### Motor and Tone ####
 
