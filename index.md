@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2
 
 ## Project working title ##
-SID Robot (Scream in Dark)
+Scream In Dark (S.I.D) Robot
 
 ## Related projects ##
 
